@@ -1,0 +1,21 @@
+Un fichier intitulé Save.txt est obligatoire pour le fonctionnement du programme, il doit être sous cette forme là:
+Si c'est un bot (J1)
+Si c'est un bot (J2)
+Nom du joueur / difficulté du bot (J1)
+Nom du joueur / difficulté du bot (J2)
+Shape J1
+Shape J2
+CURENT PLAYER
+COLOR
+PLATEAU DE JEU
+
+Plusieurs bonus on été réalisé, tel que:
+	-un plus beau rendu grâce à une classe theme qui permet de gérer les couleurs et la forme des pions
+	-un menu pause qui permet de changer les paramètres de couleurs et forme des pions et aussi de sauvegarder,  quitter et reprendre le jeu
+	-si y avait une partie sauvegarder, il faudra simplement répondre oui lors de la réexécution du script en cas contraire on demandera si on veut encore garder la progression
+	-ajout de plusieurs bot avec différentes difficultés
+
+Malgré les testes faits, il peut rester des erreurs, n'hésitez pas à le reporter à lucas.gaucher@supinfo.com ou constantin.cassassolles@supinfo.com pour un patch.
+
+
+Amusez-vous bien
