@@ -15,7 +15,7 @@ Plusieurs bonus on été réalisé, tel que:
 	-si y avait une partie sauvegarder, il faudra simplement répondre oui lors de la réexécution du script en cas contraire on demandera si on veut encore garder la progression
 	-ajout de plusieurs bot avec différentes difficultés
 
-Malgré les testes faits, il peut rester des erreurs, n'hésitez pas à le reporter à lucas.gaucher@supinfo.com ou constantin.cassassolles@supinfo.com pour un patch.
+Malgré les testes faits, il peut rester des erreurs, n'hésitez pas à le reporter à lucas.gaucher@supinfo.com pour un patch.
 
 
 Amusez-vous bien
