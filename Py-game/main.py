@@ -1,5 +1,5 @@
 """
-Author: Lucas GAUCHER/ Constantin CASSASSOLLES
+Author: Lucas GAUCHER
 created: 16/11/2024 17:22
 """
 from tkinter import*
